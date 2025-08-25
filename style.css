@@ -74,4 +74,10 @@ a {
 
 p{
   color:#8c6900;
+
+}
+.foto img
+{
+  width:400px;
+  height: 400px;
 }
